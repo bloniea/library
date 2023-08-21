@@ -1,0 +1,18 @@
+{
+    "models": [
+        "Potion-Maker/Pio",
+        "Potion-Maker/Tia",
+        "bronya",
+        "delisha",
+        "Lita",
+        "yiselin"
+    ],
+    "messages": [
+        "来自 Potion Maker 的 Pio 酱 ~",
+        "来自 Potion Maker 的 Tia 酱 ~",
+        "来自 Potion Maker 的 Bronya 酱 ~",
+        "来自 Potion Maker 的 Tiriri 酱 ~",
+        "来自 Potion Maker 的 Rita  酱 ~",
+        "来自 Potion Maker 的 Yssring 酱 ~"
+    ]
+}
